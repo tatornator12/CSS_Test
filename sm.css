@@ -1,0 +1,317 @@
+@media (min-width: 768px) {
+.title {
+	font-size: 28px !important;
+	line-height: 32px !important;
+}
+}
+
+@media (max-width: 992px) {
+#sidePanel {
+	width: 50% !important;
+}
+}
+
+.scrollInner {
+width: 7% !important;
+background-image: url(BUTTON ARROW URL) !important;
+-webkit-animation-name: none !important;
+-webkit-animation-duration: none !important;
+-webkit-animation-timing-function: none !important;
+-webkit-animation-iteration-count: none !important;
+animation-name: none !important;
+animation-duration: none !important;
+animation-timing-function: none !important;
+animation-iteration-count: none !important;
+background-size: 21px !important;
+margin-left: auto !important;
+margin-right: auto !important;
+box-shadow: 0 5px 15px rgba(0,0,0,.5) !important;
+border-radius: 25px !important;
+}
+
+.expanded-close-embed .embed-btn2-left {
+	display: block !important;
+	float: left !important;
+margin-top: 17px !important;
+margin-left: 7px !important;
+background-image: url(BUTTON ARROW URL) !important;
+background-size: 21px !important;
+background-repeat: no-repeat !important;
+background-position: 15px !important;
+box-shadow: 0 1px 15px rgba(0,0,0,.5) !important;
+border-radius: 25px !important;
+transform: rotate(90deg) !important;
+}
+.expanded-close-embed .embed-btn2-right {
+	display: block !important;
+	float: right !important;
+margin-top: 17px !important;
+margin-right: 7px !important;
+background-image: url(BUTTON ARROW URL) !important;
+background-size: 21px !important;
+background-repeat: no-repeat !important;
+background-position: 15px !important;
+box-shadow: 0 1px 15px rgba(0,0,0,.5) !important;
+border-radius: 25px !important;
+transform: rotate(270deg) !important;
+}
+
+.section a[data-storymaps] {
+text-decoration: none !important;
+color: #0071bc !important;
+}
+
+.btn-primary {
+	min-width: 120px!important;
+	background-color: #0071bc!important;
+	border-color: #0071bc!important;
+	border-radius: 0px;
+}
+.btn-primary:hover {
+	background-color: #004c92!important;
+	border-color: #004c92!important;
+}
+
+.floatingSwiper {
+	bottom: 35px!important;
+	border:1px solid #e5e5e5;
+}
+
+.floatingSwiper .embed-btn2 {
+width: 51px !important;
+height: 51px !important;
+}
+
+.floatingSwiper .embed-btn {
+    background: none !important;
+}
+
+.floatingSwiper .backdrop {
+	opacity: 1!important;
+}
+.floatingSwiper.hasDesktopBtn:not(.expanded) .title {
+	text-align: left!important;
+}
+.floatingSwiper .help-embed {
+	text-align: left!important;
+}
+
+.floatingSwiper .embed-btn-right {
+height: 51px !important;
+margin-top: 17px !important;
+margin-right: 7px !important;
+background-image: url(BUTTON ARROW URL) !important;
+background-size: 21px !important;
+background-repeat: no-repeat !important;
+background-position: 15px !important;
+box-shadow: 0 1px 15px rgba(0,0,0,.5) !important;
+border-radius: 25px !important;
+transform: rotate(270deg) !important;
+}
+
+.floatingSwiper .embed-btn-left {
+height: 51px !important;
+margin-top: 17px !important;
+margin-left: 7px !important;
+background-image: url(BUTTON ARROW URL) !important;
+background-size: 21px !important;
+background-repeat: no-repeat !important;
+background-position: 15px !important;
+box-shadow: 0 1px 15px rgba(0,0,0,.5) !important;
+border-radius: 25px !important;
+transform: rotate(90deg) !important;
+}
+
+.floatingSwiper .expanded-close-embed .backmap2 {
+margin-top: 22px !important;
+}
+
+.sidePanel .content {
+font-size: 16px!important;
+	line-height: 28px!important;
+}
+
+.sectionPanel .appTitle * {
+font-size: 24px !important;
+font-weight: bold !important;
+line-height: 30px !important;
+}
+
+.backButton {
+background-color: #428bc9 !important;
+color: #ffffff !important;
+font-size: 12px !important;
+font-weight: bold !important;
+padding: 4px 60px 4px 40px !important;
+box-shadow: none !important;
+}
+
+
+.backArrow {
+background-size: 18px 18px !important;
+background-repeat: no-repeat !important;
+background-position-x: 10px !important;
+background-position-y: 8px !important;
+margin-right: 0px !important;
+}
+
+.backLbl {
+font-size: 1em !important;
+}
+
+.section a[data-storymaps] {
+border-bottom: none;
+}
+
+.esriViewPopup .mainSection .attrTable td.attrName {
+color: black;
+font-weight: bold;
+}
+
+.esriViewPopup .hzLine {
+opacity: .2
+}
+
+.esriPopup .titleButton.prev {
+right: 45px !important;
+}
+
+.esriPopup .titleButton.close {
+font-weight: 600;
+}
+
+.titleButton {
+color: rgb(12, 94, 158) !important;
+}
+
+.navDotsNav.navDotsUp {
+background-image: url(SIDE PANEL URL) !important;
+background-size: 17px !important;
+background-repeat: no-repeat !important;
+background-position-x: 4.6px !important;
+background-position-y: 10px !important;
+filter: brightness(0) invert(1) !important;
+opacity: .7 !important;
+color: transparent !important;
+}
+
+
+.navDotsNav.navDotsDown {
+background-image: url(SIDE PANEL URL) !important;
+background-size: 17px !important;
+background-repeat: no-repeat !important;
+background-position-x: 5px !important;
+background-position-y: 15px !important;
+filter: brightness(0) invert(1) !important;
+opacity: .7 !important;
+color: transparent !important;
+transform: rotate(180deg) !important;
+}
+
+a:link:hover {
+color: #004c92 !important;
+text-decoration: underline !important;
+}
+
+a:link {
+text-decoration: none !important;
+color: #0071bc !important;
+}
+
+a:-webkit-any-link {
+text-decoration: none !important;
+color: #0071bc !important;
+}
+
+a:-webkit-any-link:hover {
+color: #004c92 !important;
+text-decoration: underline !important;
+}
+
+.dot.glyphicon.glyphicon-home.active {
+opacity: 1 !important;
+}
+
+.dot.glyphicon.glyphicon-home {
+background-image: url(HOME URL) !important;
+background-size: 17px !important;
+background-repeat: no-repeat !important;
+background-position-x: 8.6px !important;
+background-position-y: 3px !important;
+filter: brightness(0) invert(1) !important;
+opacity: .7 !important;
+color: transparent !important;
+}
+
+
+
+
+.mapControls.content {
+margin: 0 0 8px 10px !important;
+padding-right: 10px !important;
+}
+
+.settingsGear.glyphicon.glyphicon-wrench {
+display: none !important;
+}
+
+.collapseBtn {
+position: absolute !important;
+left: 170px !important;
+font-size: 14px !important;
+color: rgb(12, 94, 158) !important;
+
+}
+
+.titleBtn {
+font-family: "Open Sans", sans-serif !important;
+color: rgb(12, 94, 158) !important;
+font-size: 0.8em !important;
+letter-spacing: .5px !important;
+font-weight: 800 !important;
+}
+
+h1.title span{
+font-size: 24px !important;
+font-weight: bold !important;
+line-height: 30px !important;
+}
+
+h2.title span {
+font-size: 20px !important;
+line-height: 26px !important;
+color: #333333 !important;
+}
+
+mapControls.settingsGear{
+display: none !important;
+visibility: hidden !important;
+}
+
+
+.legendContainer {
+border-bottom-right-radius: 0px !important;
+border-bottom-left-radius: 0px !important;
+border-style: solid !important;
+border-width: 1px !important;
+border-color: rgb(104, 170, 225) !important;
+}
+.legendContainer.mapControls {
+background-color: white !important;
+color: rgb(77, 77, 77) !important;
+}
+.logoContainer {right: auto;
+left: 33px;}
+
+.navDots.vertical {
+background-color: rgb(12, 94, 158) !important;
+}
+
+.dot[data-index]{
+padding-bottom: 30px !important;
+}
+
+.dot {
+color: rgb(182, 207, 226) !important;
+font-size: 24px !important;
+}
